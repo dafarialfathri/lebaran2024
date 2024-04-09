@@ -21,7 +21,7 @@ const images = {
     "wildalika ayu mahira": "DSC04183.JPG",
     "febrian nugroho wisnu santoso": "DSC04183.JPG",
     "sukma yuliandra putri": "DSC04183.JPG",
-    "esther juneline laia": "DSC04183.JPG"
+    "esther juneline laia": "esther.jpg"
 };
 const nameInput = document.getElementById("komen");
 const profileImage = document.getElementById("isifoto");
