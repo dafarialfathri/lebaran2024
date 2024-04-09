@@ -18,10 +18,10 @@ const images = {
     "melsi oktaviana": "yall.jpg",
     "nadia refiyanah": "yall.jpg",
     "default": "yall.jpg",
-    "wildalika ayu mahira": "DSC04183.jpg",
-    "febrian nugroho wisnu santoso": "DSC04183.jpg",
-    "sukma yuliandra putri": "DSC04183.jpg",
-    "esther juneline laia": "DSC04183.jpg"
+    "wildalika ayu mahira": "DSC04183.JPG",
+    "febrian nugroho wisnu santoso": "DSC04183.JPG",
+    "sukma yuliandra putri": "DSC04183.JPG",
+    "esther juneline laia": "DSC04183.JPG"
 };
 const nameInput = document.getElementById("komen");
 const profileImage = document.getElementById("isifoto");
