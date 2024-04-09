@@ -2,7 +2,7 @@ body {
     display: flex;
     background-color: black;
     width: 100vw;
-    height: 100vh;
+    height: 107vh;
     justify-content: flex-start;
     align-items: center;
     flex-wrap: wrap;
@@ -13,7 +13,7 @@ body {
 .atas {
     display: flex;
     width: 98vw;
-    height: 8%;
+    height: 7%;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: flex-start;
@@ -43,7 +43,7 @@ body {
 .foto {
     display: flex;
     width: 98vw;
-    height: 35%;
+    height: 33%;
     overflow: hidden;
     margin-block: 7px;
     justify-content: center;
