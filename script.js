@@ -18,9 +18,9 @@ const images = {
     "melsi oktaviana": "yall.jpg",
     "nadia refiyanah": "yall.jpg",
     "default": "yall.jpg",
-    "wildalika ayu mahira": "yuma.JPG",
-    "febrian nugroho wisnu santoso": "febrian.JPG",
-    "sukma yuliandra putri": "sukput.JPG",
+    "wildalika ayu mahira": "yuma.jpg",
+    "febrian nugroho wisnu santoso": "febrian.jpg",
+    "sukma yuliandra putri": "sukput.jpg",
     "esther juneline laia": "esther.jpg"
 };
 const nameInput = document.getElementById("komen");
