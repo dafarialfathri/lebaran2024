@@ -12,7 +12,7 @@ body {
 
 .atas {
     display: flex;
-    width: 100vw;
+    width: 98vw;
     height: 8%;
     flex-wrap: wrap;
     flex-direction: row;
@@ -42,7 +42,7 @@ body {
 
 .foto {
     display: flex;
-    width: 100vw;
+    width: 98vw;
     height: 35%;
     overflow: hidden;
     margin-block: 7px;
@@ -58,7 +58,7 @@ body {
 
 .bawah {
     display: flex;
-    width: 100vw;
+    width: 98vw;
     height: 45%;
     flex-wrap: wrap;
     flex-direction: column;
@@ -81,7 +81,7 @@ body {
 
 .garisbawah {
     display: flex;
-    width: 100%;
+    width: 98vw;
     border-top: 1px solid #575757;
 }
 
