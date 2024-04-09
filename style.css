@@ -43,7 +43,7 @@ body {
 .foto {
     display: flex;
     width: 98vw;
-    height: 33%;
+    height: 31%;
     overflow: hidden;
     margin-block: 7px;
     justify-content: center;
@@ -59,7 +59,7 @@ body {
 .bawah {
     display: flex;
     width: 98vw;
-    height: 48%;
+    height: 50%;
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: flex-start;
