@@ -20,7 +20,7 @@ const images = {
     "default": "yall.jpg",
     "wildalika ayu mahira": "yuma.jpg",
     "febrian nugroho wisnu santoso": "febrian.jpg",
-    "sukma yuliandra putri": "esther.jpg",
+    "sukma yuliandra putri": "sukput.jpg",
     "esther juneline laia": "esther.jpg"
 };
 const nameInput = document.getElementById("komen");
